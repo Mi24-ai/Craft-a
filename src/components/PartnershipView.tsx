@@ -51,7 +51,7 @@ const TIERS: Tier[] = [
     icon: Leaf,
     features: [
       'Etalase toko digital di Craftéa',
-      'Hingga 10 listing produk',
+      'Hingga 7 listing produk',
       'Dashboard pesanan standar',
       'Dukungan email'
     ]
@@ -65,7 +65,7 @@ const TIERS: Tier[] = [
     icon: Gem,
     features: [
       'Semua benefit paket Basic',
-      'Hingga 30 listing produk',
+      'Hingga 20 listing produk',
       'Sertifikasi Blockchain untuk setiap karya',
       'Badge "Atelier Terverifikasi"',
       'Prioritas tampil di halaman kategori'
