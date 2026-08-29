@@ -1,0 +1,6 @@
+{
+  "name": "Swarna Nusantara - Batik & Javanese Heritage Marketplace",
+  "description": "A luxury prototype platform celebrating authentic Indonesian Batik and Javanese craftsmanship with AI Personality Motif Matcher, curated artisan marketplace with deep motif philosophy, and Web3 Blockchain Provenance Verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
